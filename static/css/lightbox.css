@@ -1,0 +1,106 @@
+
+            div.row > div > div.row {
+                margin-bottom: 15px;
+            }
+
+            html {
+                background-color: #02709e;
+            }
+            body {
+                background: #fefefe;
+                padding-bottom: 50px;
+            }
+
+            div.top-container {
+                padding-top:100px;
+                background-color: #02709e;
+                color:#ccc;
+            }
+            div.top-container h1 {
+                color:white;
+            }
+            div.top-container a {
+                color:#ccc;
+                border-bottom:1px dotted white;
+            }
+            div.top-container a:hover {
+                color: white;
+                cursor:pointer;
+                border-bottom:1px solid white;
+                text-decoration: none;
+            }
+            div.top-header {
+                margin-bottom:100px;
+            }
+
+            h2 {
+                background-color:#02709e;
+                color:white;
+                display:inline-block;
+                padding:6px;
+                margin-top:100px;
+            }
+
+            h3 {
+                padding-bottom:5px;
+                margin-bottom:10px;
+                border-bottom:1px solid #f2f2f2;
+                margin-top: 50px;
+            }
+
+            h4:not(.modal-title) {
+                margin-top:25px;
+            }
+
+            figure {
+                position: relative;
+            }
+
+            figure figcaption {
+                font-size: 22px;
+                color: #fff;
+                text-decoration: none;
+                bottom: 10px;
+                right: 20px;
+                position: absolute;
+                background-color: #000;
+            }
+			code[data-code], code.block-code {
+                display:block;
+                overflow:scroll;
+                font-size:12px;
+				white-space: pre;
+			}
+
+            table {
+                font-size:12px;
+            }
+            .footer {
+                text-align: center;
+            }
+            .footer span {
+                margin-top:100px;
+                font-size:12px;
+                background-color:#02709e;
+                color:white;
+                display:inline-block;
+                padding:6px;
+            }
+            .footer span a {
+                color:#ccc;
+                border-bottom:1px dotted white;
+            }
+            .footer span a:hover {
+                cursor:pointer;
+                color: white;
+                border-bottom:1px solid white;
+                text-decoration: none;
+            }
+            a.anchorjs-link {
+                color:black;
+            }
+            a.anchorjs-link:hover {
+                color:#02709e;
+                text-decoration: none;
+            }
+        
