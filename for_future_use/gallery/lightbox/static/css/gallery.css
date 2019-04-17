@@ -3,18 +3,30 @@ div.row > div > div.row {
     margin-bottom: 15px;
 }
 
+.col-xl-2 {
+    margin-bottom: 20px;
+}
+
+.advertisement{
+    background-color: lightgrey;
+}
+
+p {
+    color: black;
+}
+
 html {
-    background-color: #02709e;
+    background-color: white;
 }
 
 body {
-    background: #fefefe;
+    background: white;
     padding-bottom: 50px;
 }
 
 div.top-container {
-    padding-top: 100px;
-    background-color: #02709e;
+    padding-top: 25px;
+    background-color: white;
     color: #ccc;
 }
 
@@ -27,18 +39,21 @@ div.top-container a {
 }
 
 div.top-container a:hover {
+    /*
     color: white;
+    */
     cursor: pointer;
     text-decoration: none;
     transform: scale(1.05);
 }
 
+.glamour {
+    color: deeppink;
+}
+
 h2 {
-    background-color: #02709e;
     color: white;
-    display: inline-block;
-    padding: 6px;
-    margin-top: 100px;
+    text-align: center;
 }
 
 h3 {
@@ -80,7 +95,7 @@ table {
 .footer span {
     margin-top: 100px;
     font-size: 12px;
-    background-color: #02709e;
+    background-color: white;
     color: white;
     display: inline-block;
     padding: 6px;
