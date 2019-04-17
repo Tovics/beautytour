@@ -30,7 +30,7 @@
 <div class="col-sm-0 col-xs-0">
     <nav class="navbar navbar-dark bg-dark">
         <a class="glamour" href="beautytour.com">Beauty tour</a>
-        <h5 class="glamour">Debrecen</h5>
+        <p class="glamour">Debrecen</p>
     </nav>
 </div>
 <div class="top-container">
