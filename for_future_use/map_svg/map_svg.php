@@ -2,9 +2,9 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Map</title>
-    <link rel="stylesheet" href="static/css/map_svg.css" crossorigin="anonymous">
+    <title>Map SVG</title>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js" defer></script>
+    <link rel="stylesheet" href="static/css/map_svg.css" crossorigin="anonymous">
 </head>
 <body>
 <!-- tits ELEJE -->
@@ -12,8 +12,10 @@
     <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
          viewBox="0 0 679 679" preserveAspectRatio="xMinYMin meet">
         <image width="679" height="679" xlink:href="static/images/tits.jpg"></image>
-            <circle id="tit_right" cx="313" cy="339" r="79" style="fill:lime; stroke:darkmagenta; stroke-width:10px"/>
-           <ellipse id="tit_left" cx="161" cy="351" rx="79" ry="90" style="fill:lime; stroke:darkmagenta; stroke-width:10px"/>
+        <circle id="tit_right" cx="313" cy="339" r="79"
+                style="fill:lime; stroke:darkmagenta; stroke-width:10px"/>
+        <ellipse id="tit_left" cx="161" cy="351" rx="79" ry="90"
+                 style="fill:lime; stroke:darkmagenta; stroke-width:10px"/>
     </svg>
 </div>
 

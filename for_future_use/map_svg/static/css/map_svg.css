@@ -2,11 +2,15 @@
 svg{width:100vh;border:1px solid;}
 svg *{fill:rgba(0, 255, 255, .4)}
 
-div.tits ellipse:hover{
+
+.tits {
+   pointer-events: all;
+}
+
+.tits ellipse:hover{
     visibility: hidden;
 }
 
-
-div.tits circle:hover{
+.tits circle:hover{
     visibility: hidden;
 }
