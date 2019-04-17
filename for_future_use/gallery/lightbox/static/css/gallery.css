@@ -9,9 +9,6 @@ div.row > div > div.row {
 
 .advertisement{
     background-color: lightgrey;
-}
-
-p {
     color: black;
 }
 
@@ -34,21 +31,17 @@ div.top-container h1 {
     color: white;
 }
 
-div.top-container a {
-    color: #ccc;
-}
-
 div.top-container a:hover {
     /*
     color: white;
     */
     cursor: pointer;
-    text-decoration: none;
-    transform: scale(1.05);
+    transform: scale(1.50);
 }
 
 .glamour {
     color: deeppink;
+    font-size: large;
 }
 
 h2 {
