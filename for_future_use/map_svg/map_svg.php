@@ -14,7 +14,7 @@
         <image width="679" height="679" xlink:href="static/images/tits.jpg"></image>
         <circle id="tit_right" cx="313" cy="339" r="79"
                 style="fill:lime; stroke:darkmagenta; stroke-width:10px"/>
-        <ellipse id="tit_left" cx="161" cy="351" rx="79" ry="90"
+        <ellipse id="tit_left" cx="180" cy="351" rx="69" ry="80"
                  style="fill:lime; stroke:darkmagenta; stroke-width:10px"/>
     </svg>
 </div>

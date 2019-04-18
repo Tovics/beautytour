@@ -2,39 +2,18 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Title</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Title</title>
+
     <title>jQuery UI Effects - Hide Demo</title>
+
     <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
-    <link rel="stylesheet" href="/resources/demos/style.css">
-    <style>
-        .toggler {
-            width: 500px;
-            height: 200px;
-            position: center;
-        }
+    <link rel="stylesheet" href="static/css/hide_effects.css">
 
-        #button {
-            padding: .5em 1em;
-            text-decoration: none;
-        }
-
-        #effect {
-            width: 240px;
-            height: 170px;
-            padding: 0.4em;
-            position: relative;
-        }
-
-        #effect h3 {
-            margin: 0;
-            padding: 0.4em;
-            text-align: center;
-        }
-    </style>
     <script src="https://code.jquery.com/jquery-1.12.4.js" defer></script>
     <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js" defer></script>
-    <script src="static/js/index3.js" defer></script>
+    <script src="static/js/hide_effects.js" defer></script>
 </head>
 <body>
 

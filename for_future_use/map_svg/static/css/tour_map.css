@@ -2,6 +2,7 @@
     margin:0;padding:0;
 }
 
+/*TITS beginning*/
 svg {
     width:100vh;border:1px solid;
 }
@@ -11,7 +12,7 @@ svg *{
 }
 
 .tits {
-  /* pointer-events: all; */
+    /* pointer-events: all; */
 }
 
 .tits ellipse{
@@ -24,7 +25,7 @@ svg *{
     transition:opacity 1000ms;
 }
 
-.tits circle{
+.tits a.circle{
     opacity: 1;
     transition:opacity 1000ms;
 }
@@ -33,3 +34,17 @@ svg *{
     opacity: 0;
     transition:opacity 1000ms;
 }
+/*TITS end*/
+
+/* tooltip start */
+label {
+    display: inline-block;
+    width: 5em;
+}
+
+.tooltip {
+    background: #EC2227;
+}
+
+
+/* tooltip end */
