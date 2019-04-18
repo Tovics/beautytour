@@ -68,7 +68,21 @@ div.top-container {
     padding-top: 25px;
     background-color: white;
     color: #ccc;
+/*
+    This would make very fancy the gallery - every items would show the same style - can't fix
+    display: grid;
+    grid-gap: 5px;
+    grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+    grid-template-rows: repeat(2, 100px);*/
 }
+
+/*
+    Same as the previous comment
+.top-container > div > img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}*/
 
 div.top-container h1 {
     color: white;
