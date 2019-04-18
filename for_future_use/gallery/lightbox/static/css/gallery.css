@@ -7,9 +7,25 @@ div.row > div > div.row {
     margin-bottom: 20px;
 }
 
-.advertisement{
+.advertisement {
     background-color: lightgrey;
     color: black;
+}
+
+.navbar-nav {
+    width: 100%;
+    text-align: center;
+    display: inline-block;
+
+}
+
+.center {
+    float: none;
+    display: inline-block;
+}
+
+.left {
+    float: left;
 }
 
 html {

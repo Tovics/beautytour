@@ -29,8 +29,10 @@
        # Dual licensed under the MIT or GPL Version 2 licenses. -->
 <div class="col-sm-0 col-xs-0">
     <nav class="navbar navbar-dark bg-dark">
-        <a class="glamour" href="beautytour.com">Beauty tour</a>
-        <p class="glamour">Debrecen</p>
+        <ul class="nav navbar-nav">
+            <li class="left"><a class="glamour" href="beautytour.com">Beauty tour</a></li>
+            <li class="glamour center">Debrecen</li>
+        </ul>
     </nav>
 </div>
 <div class="top-container">
