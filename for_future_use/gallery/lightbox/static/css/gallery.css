@@ -1,14 +1,13 @@
 
 div.row > div > div.row {
     margin-bottom: 15px;
-    padding-left: 10px;
-    padding-right: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
 }
 
 .col-xl-2 {
     margin-bottom: 20px;
 }
-
 
 
 .advertisement {
@@ -21,13 +20,25 @@ div.row > div > div.row {
     text-align: center;
     display: inline-block;
     height: 50px;
+
+
     /*
     horiz-align: center;
     */
 }
 
+/*fancy shine hover - I can't fix it*/
+
+/*.hover14 figure:hover::before {
+    -webkit-animation: shine .75s;
+    animation: shine .75s;
+}*/
+
 .nav-center {
+    margin-right: 95px;
+    /*
     float: none;
+    */
     /*
     display: inline-block;
     */
@@ -37,6 +48,12 @@ div.row > div > div.row {
     float: left;
 }
 
+li {
+    Position: relative;
+    Top: 50%;
+    Transform: translateY(-50%);
+}
+
 html {
     background-color: white;
 }
@@ -44,6 +61,7 @@ html {
 body {
     background: white;
     padding-bottom: 50px;
+    width: 100%;
 }
 
 div.top-container {
@@ -56,12 +74,12 @@ div.top-container h1 {
     color: white;
 }
 
-div.top-container a:hover {
+div.top-container img:hover {
     /*
     color: white;
     */
     cursor: pointer;
-    /*transform: scale(1.50);*/
+    transform: scale(1.05);
 }
 
 .glamour {
