@@ -27,14 +27,12 @@
 <body>
 <!-- Ezt minden felhasználásnál meg kell jeleníteni, így ingyenesen használható:
        # Dual licensed under the MIT or GPL Version 2 licenses. -->
-<div class="col-sm-0 col-xs-0">
     <nav class="navbar navbar-dark bg-dark">
         <ul class="nav navbar-nav">
-            <li class="left"><a class="glamour" href="beautytour.com">Beauty tour</a></li>
-            <li class="glamour center">Debrecen</li>
+            <li class="nav-left"><a class="glamour" href="beautytour.com">Beauty tour</a></li>
+            <li class="glamour nav-center">Debrecen</li>
         </ul>
     </nav>
-</div>
 <div class="top-container">
     <div data-code="example-2">
         <div class="row justify-content-center">
@@ -45,55 +43,55 @@
                 <div class="row">
                     <div class="col-xl-2 col-lg-3 col-md-4 col-sm-6 col-xs-6">
                         <a href="static/img/img1.jpg" data-toggle="lightbox"
-                           data-gallery="example-gallery" class="col-sm-4">
+                           data-gallery="example-gallery">
                             <img src="static/img/img1.jpg" class="img-fluid">
                         </a>
                     </div>
                     <div class="col-xl-2 col-lg-3 col-md-4 col-sm-6 col-xs-6">
                         <a href="static/img/img2.jpg" data-toggle="lightbox"
-                           data-gallery="example-gallery" class="col-sm-4">
+                           data-gallery="example-gallery">
                             <img src="static/img/img2.jpg" class="img-fluid">
                         </a>
                     </div>
                     <div class="col-xl-2 col-lg-3 col-md-4 col-sm-6 col-xs-6">
                         <a href="static/img/img3.jpg" data-toggle="lightbox"
-                           data-gallery="example-gallery" class="col-sm-4">
+                           data-gallery="example-gallery">
                             <img src="static/img/img3.jpg" class="img-fluid">
                         </a>
                     </div>
                     <div class="col-xl-2 col-lg-3 col-md-4 col-sm-6 col-xs-6">
                         <a href="static/img/img4.jpg" data-toggle="lightbox"
-                           data-gallery="example-gallery" class="col-sm-4">
+                           data-gallery="example-gallery">
                             <img src="static/img/img4.jpg" class="img-fluid">
                         </a>
                     </div>
                     <div class="col-xl-2 col-lg-3 col-md-4 col-sm-6 col-xs-6">
                         <a href="static/img/img5.jpg" data-toggle="lightbox"
-                           data-gallery="example-gallery" class="col-sm-4">
+                           data-gallery="example-gallery">
                             <img src="static/img/img5.jpg" class="img-fluid">
                         </a>
                     </div>
                     <div class="col-xl-2 col-lg-3 col-md-4 col-sm-6 col-xs-6">
                         <a href="static/img/img6.jpg" data-toggle="lightbox"
-                           data-gallery="example-gallery" class="col-sm-4">
+                           data-gallery="example-gallery">
                             <img src="static/img/img6.jpg" class="img-fluid">
                         </a>
                     </div>
                     <div class="col-xl-2 col-lg-3 col-md-4 col-sm-6 col-xs-6">
                         <a href="static/img/img7.jpg" data-toggle="lightbox"
-                           data-gallery="example-gallery" class="col-sm-4">
+                           data-gallery="example-gallery">
                             <img src="static/img/img7.jpg" class="img-fluid">
                         </a>
                     </div>
                     <div class="col-xl-2 col-lg-3 col-md-4 col-sm-6 col-xs-6">
                         <a href="static/img/img8.jpg" data-toggle="lightbox"
-                           data-gallery="example-gallery" class="col-sm-4">
+                           data-gallery="example-gallery">
                             <img src="static/img/img8.jpg" class="img-fluid">
                         </a>
                     </div>
                     <div class="col-xl-2 col-lg-3 col-md-4 col-sm-6 col-xs-6">
                         <a href="static/img/img9.jpg" data-toggle="lightbox"
-                           data-gallery="example-gallery" class="col-sm-4">
+                           data-gallery="example-gallery">
                             <img src="static/img/img9.jpg" class="img-fluid">
                         </a>
                     </div>
