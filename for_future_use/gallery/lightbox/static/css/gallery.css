@@ -1,11 +1,15 @@
 
 div.row > div > div.row {
     margin-bottom: 15px;
+    padding-left: 10px;
+    padding-right: 10px;
 }
 
 .col-xl-2 {
     margin-bottom: 20px;
 }
+
+
 
 .advertisement {
     background-color: lightgrey;
@@ -16,15 +20,20 @@ div.row > div > div.row {
     width: 100%;
     text-align: center;
     display: inline-block;
-
+    height: 50px;
+    /*
+    horiz-align: center;
+    */
 }
 
-.center {
+.nav-center {
     float: none;
+    /*
     display: inline-block;
+    */
 }
 
-.left {
+.nav-left {
     float: left;
 }
 
@@ -52,7 +61,7 @@ div.top-container a:hover {
     color: white;
     */
     cursor: pointer;
-    transform: scale(1.50);
+    /*transform: scale(1.50);*/
 }
 
 .glamour {
