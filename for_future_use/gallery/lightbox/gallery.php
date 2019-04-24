@@ -39,8 +39,36 @@
             <div class="col-xl-2 col-lg-2 col-md-2 col-sm-0 col-xs-0 row justify-content-center advertisement">
                 <p>Reklám</p>
             </div>
-            <div class="col-md-8">
-                <div class="row">
+            <div class="col-xl-8 col-lg-8 col-md-8 col-sm-12 col-xs-12">
+                <div><a href="static/img/img1.jpg" data-toggle="lightbox"
+                        data-gallery="example-gallery"><img src="static/img/img1.jpg" class="photo"></a></div>
+                <div><a href="static/img/img2.jpg" data-toggle="lightbox"
+                        data-gallery="example-gallery"><img src="static/img/img2.jpg" class="photo"></a></div>
+                <div><a href="static/img/img3.jpg" data-toggle="lightbox"
+                        data-gallery="example-gallery"><img src="static/img/img3.jpg" class="photo"></a></div>
+                <div><a href="static/img/img4.jpg" data-toggle="lightbox"
+                        data-gallery="example-gallery"><img src="static/img/img4.jpg" class="photo"></a></div>
+                <div><a href="static/img/img5.jpg" data-toggle="lightbox"
+                        data-gallery="example-gallery"><img src="static/img/img5.jpg" class="photo"></a></div>
+                <div><a href="static/img/img6.jpg" data-toggle="lightbox"
+                        data-gallery="example-gallery"><img src="static/img/img6.jpg" class="photo"></a></div>
+                <div><a href="static/img/img7.jpg" data-toggle="lightbox"
+                        data-gallery="example-gallery"><img src="static/img/img7.jpg" class="photo"></a></div>
+                <div><a href="static/img/img8.jpg" data-toggle="lightbox"
+                        data-gallery="example-gallery"><img src="static/img/img8.jpg" class="photo"></a></div>
+                <div><a href="static/img/img9.jpg" data-toggle="lightbox"
+                        data-gallery="example-gallery"><img src="static/img/img9.jpg" class="photo"></a></div>
+                <div><a href="static/img/img6.jpg" data-toggle="lightbox"
+                        data-gallery="example-gallery"><img src="static/img/img6.jpg" class="photo"></a></div>
+                <div><a href="static/img/img6.jpg" data-toggle="lightbox"
+                        data-gallery="example-gallery"><img src="static/img/img6.jpg" class="photo"></a></div>
+                <div><a href="static/img/img6.jpg" data-toggle="lightbox"
+                        data-gallery="example-gallery"><img src="static/img/img6.jpg" class="photo"></a></div>
+                <div><a href="static/img/img6.jpg" data-toggle="lightbox"
+                        data-gallery="example-gallery"><img src="static/img/img6.jpg" class="photo"></a></div>
+
+            </div>
+                <!--<div class="row">
                     <div class="col-xl-2 col-lg-3 col-md-4 col-sm-6 col-xs-6">
                         <a href="static/img/img1.jpg" data-toggle="lightbox"
                            data-gallery="example-gallery">
@@ -96,7 +124,7 @@
                         </a>
                     </div>
                 </div>
-            </div>
+            </div>-->
             <div class="col-xl-2 col-lg-2 col-md-2 col-sm-0 col-xs-0 row justify-content-center advertisement">
                 <p>Reklám</p>
             </div>
