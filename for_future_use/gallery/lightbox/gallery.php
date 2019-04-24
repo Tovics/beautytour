@@ -29,7 +29,7 @@
        # Dual licensed under the MIT or GPL Version 2 licenses. -->
     <nav class="navbar navbar-dark bg-dark">
         <ul class="nav navbar-nav">
-            <li class="nav-left"><a class="glamour" href="beautytour.com">Beauty tour</a></li>
+            <li class="nav-left"><a href="https://google.com"><img src="static/img/GLAMOUR_BTour_logo.png" width="60" height="60"></a></li>
             <li class="glamour nav-center">Debrecen</li>
         </ul>
     </nav>
