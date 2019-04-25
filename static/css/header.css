@@ -1,0 +1,23 @@
+	
+.tales {
+  width: 100%;
+}
+
+.carousel-inner{
+  width:100%;
+  max-height: 200px !important;
+}
+
+.navbar-custom {
+  color: #FFFFFF;
+  background-color: #ff1493;
+  
+}
+
+.logo {
+  max-width: 75px;
+  max-height: 60px;
+  -webkit-filter: drop-shadow(5px 5px 5px white );
+  filter: drop-shadow(5px 5px 5px white);
+}
+
