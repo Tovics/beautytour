@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Bootstrap Lightbox</title>
+    <title>Gallery</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <style class="anchorjs"></style>
@@ -27,38 +27,106 @@
 <body>
 <!-- Ezt minden felhasználásnál meg kell jeleníteni, így ingyenesen használható:
        # Dual licensed under the MIT or GPL Version 2 licenses. -->
+    <nav class="navbar navbar-dark bg-dark">
+        <ul class="nav navbar-nav">
+            <li class="nav-left"><a href="https://google.com"><img src="static/img/GLAMOUR_BTour_logo.png" width="60" height="60"></a></li>
+            <li class="glamour nav-center">Debrecen</li>
+        </ul>
+    </nav>
 <div class="top-container">
     <div data-code="example-2">
         <div class="row justify-content-center">
-            <div class="col-md-8">
-                <div class="row">
-                    <a href="https://unsplash.it/1200/768.jpg?image=251" data-toggle="lightbox"
-                       data-gallery="example-gallery" class="col-sm-4">
-                        <img src="https://unsplash.it/600.jpg?image=251" class="img-fluid">
-                    </a>
-                    <a href="https://unsplash.it/1200/768.jpg?image=252" data-toggle="lightbox"
-                       data-gallery="example-gallery" class="col-sm-4">
-                        <img src="https://unsplash.it/600.jpg?image=252" class="img-fluid">
-                    </a>
-                    <a href="https://unsplash.it/1200/768.jpg?image=253" data-toggle="lightbox"
-                       data-gallery="example-gallery" class="col-sm-4">
-                        <img src="https://unsplash.it/600.jpg?image=253" class="img-fluid">
-                    </a>
+            <div class="col-xl-2 col-lg-2 col-md-2 col-sm-0 col-xs-0 row justify-content-center advertisement">
+                <p>Reklám</p>
+            </div>
+            <div class="col-xl-8 col-lg-8 col-md-8 col-sm-12 col-xs-12">
+                <div><a href="static/img/img1.jpg" data-toggle="lightbox"
+                        data-gallery="example-gallery"><img src="static/img/img1.jpg" class="photo"></a></div>
+                <div><a href="static/img/img2.jpg" data-toggle="lightbox"
+                        data-gallery="example-gallery"><img src="static/img/img2.jpg" class="photo"></a></div>
+                <div><a href="static/img/img3.jpg" data-toggle="lightbox"
+                        data-gallery="example-gallery"><img src="static/img/img3.jpg" class="photo"></a></div>
+                <div><a href="static/img/img4.jpg" data-toggle="lightbox"
+                        data-gallery="example-gallery"><img src="static/img/img4.jpg" class="photo"></a></div>
+                <div><a href="static/img/img5.jpg" data-toggle="lightbox"
+                        data-gallery="example-gallery"><img src="static/img/img5.jpg" class="photo"></a></div>
+                <div><a href="static/img/img6.jpg" data-toggle="lightbox"
+                        data-gallery="example-gallery"><img src="static/img/img6.jpg" class="photo"></a></div>
+                <div><a href="static/img/img7.jpg" data-toggle="lightbox"
+                        data-gallery="example-gallery"><img src="static/img/img7.jpg" class="photo"></a></div>
+                <div><a href="static/img/img8.jpg" data-toggle="lightbox"
+                        data-gallery="example-gallery"><img src="static/img/img8.jpg" class="photo"></a></div>
+                <div><a href="static/img/img9.jpg" data-toggle="lightbox"
+                        data-gallery="example-gallery"><img src="static/img/img9.jpg" class="photo"></a></div>
+                <div><a href="static/img/img6.jpg" data-toggle="lightbox"
+                        data-gallery="example-gallery"><img src="static/img/img6.jpg" class="photo"></a></div>
+                <div><a href="static/img/img6.jpg" data-toggle="lightbox"
+                        data-gallery="example-gallery"><img src="static/img/img6.jpg" class="photo"></a></div>
+                <div><a href="static/img/img6.jpg" data-toggle="lightbox"
+                        data-gallery="example-gallery"><img src="static/img/img6.jpg" class="photo"></a></div>
+                <div><a href="static/img/img6.jpg" data-toggle="lightbox"
+                        data-gallery="example-gallery"><img src="static/img/img6.jpg" class="photo"></a></div>
+
+            </div>
+                <!--<div class="row">
+                    <div class="col-xl-2 col-lg-3 col-md-4 col-sm-6 col-xs-6">
+                        <a href="static/img/img1.jpg" data-toggle="lightbox"
+                           data-gallery="example-gallery">
+                            <img src="static/img/img1.jpg" class="img-fluid">
+                        </a>
+                    </div>
+                    <div class="col-xl-2 col-lg-3 col-md-4 col-sm-6 col-xs-6">
+                        <a href="static/img/img2.jpg" data-toggle="lightbox"
+                           data-gallery="example-gallery">
+                            <img src="static/img/img2.jpg" class="img-fluid">
+                        </a>
+                    </div>
+                    <div class="col-xl-2 col-lg-3 col-md-4 col-sm-6 col-xs-6">
+                        <a href="static/img/img3.jpg" data-toggle="lightbox"
+                           data-gallery="example-gallery">
+                            <img src="static/img/img3.jpg" class="img-fluid">
+                        </a>
+                    </div>
+                    <div class="col-xl-2 col-lg-3 col-md-4 col-sm-6 col-xs-6">
+                        <a href="static/img/img4.jpg" data-toggle="lightbox"
+                           data-gallery="example-gallery">
+                            <img src="static/img/img4.jpg" class="img-fluid">
+                        </a>
+                    </div>
+                    <div class="col-xl-2 col-lg-3 col-md-4 col-sm-6 col-xs-6">
+                        <a href="static/img/img5.jpg" data-toggle="lightbox"
+                           data-gallery="example-gallery">
+                            <img src="static/img/img5.jpg" class="img-fluid">
+                        </a>
+                    </div>
+                    <div class="col-xl-2 col-lg-3 col-md-4 col-sm-6 col-xs-6">
+                        <a href="static/img/img6.jpg" data-toggle="lightbox"
+                           data-gallery="example-gallery">
+                            <img src="static/img/img6.jpg" class="img-fluid">
+                        </a>
+                    </div>
+                    <div class="col-xl-2 col-lg-3 col-md-4 col-sm-6 col-xs-6">
+                        <a href="static/img/img7.jpg" data-toggle="lightbox"
+                           data-gallery="example-gallery">
+                            <img src="static/img/img7.jpg" class="img-fluid">
+                        </a>
+                    </div>
+                    <div class="col-xl-2 col-lg-3 col-md-4 col-sm-6 col-xs-6">
+                        <a href="static/img/img8.jpg" data-toggle="lightbox"
+                           data-gallery="example-gallery">
+                            <img src="static/img/img8.jpg" class="img-fluid">
+                        </a>
+                    </div>
+                    <div class="col-xl-2 col-lg-3 col-md-4 col-sm-6 col-xs-6">
+                        <a href="static/img/img9.jpg" data-toggle="lightbox"
+                           data-gallery="example-gallery">
+                            <img src="static/img/img9.jpg" class="img-fluid">
+                        </a>
+                    </div>
                 </div>
-                <div class="row">
-                    <a href="https://unsplash.it/1200/768.jpg?image=254" data-toggle="lightbox"
-                       data-gallery="example-gallery" class="col-sm-4">
-                        <img src="https://unsplash.it/600.jpg?image=254" class="img-fluid">
-                    </a>
-                    <a href="https://unsplash.it/1200/768.jpg?image=255" data-toggle="lightbox"
-                       data-gallery="example-gallery" class="col-sm-4">
-                        <img src="https://unsplash.it/600.jpg?image=255" class="img-fluid">
-                    </a>
-                    <a href="https://unsplash.it/1200/768.jpg?image=256" data-toggle="lightbox"
-                       data-gallery="example-gallery" class="col-sm-4">
-                        <img src="https://unsplash.it/600.jpg?image=256" class="img-fluid">
-                    </a>
-                </div>
+            </div>-->
+            <div class="col-xl-2 col-lg-2 col-md-2 col-sm-0 col-xs-0 row justify-content-center advertisement">
+                <p>Reklám</p>
             </div>
         </div>
     </div>
