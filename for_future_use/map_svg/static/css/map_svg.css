@@ -1,0 +1,37 @@
+*{
+    margin:0;padding:0;
+}
+
+svg {
+    width:100vh;border:1px solid;
+}
+
+svg *{
+    fill:rgba(0, 255, 255, .4)
+}
+
+.tits {
+  /* pointer-events: all; */
+}
+
+.tits ellipse{
+    opacity: 1;
+    transition:opacity 1000ms;
+}
+
+.tits ellipse:hover{
+    opacity: 0;
+    transition:opacity 1000ms;
+}
+
+.tits circle{
+    opacity: 1;
+    transition:opacity 1000ms;
+}
+
+
+.tits circle:hover{
+    opacity: 0;
+    transition:opacity 1000ms;
+    
+}

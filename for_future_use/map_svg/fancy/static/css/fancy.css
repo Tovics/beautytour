@@ -1,0 +1,65 @@
+body {
+    background-color: #353535;
+    color: #fff;
+}
+
+.box-cont {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%)
+}
+
+#esterno {
+    stroke-dashoffset: 200;
+    stroke-dasharray: 200;
+    transform: rotate(-105deg) translate(-673px, -237px);
+    visibility: hidden;
+    transition: all 2.0s;
+    transition-delay: 1.5s;
+}
+
+#esterno.over {
+    stroke-dashoffset: 0;
+    visibility: visible;
+    transition: 2.0s;
+}
+
+#bordo {
+    stroke-dashoffset: 879;
+    stroke-dasharray: 878;
+    visibility: hidden;
+    transition: 2.0s;
+}
+
+#bordo.over {
+    stroke-dashoffset: 0;
+    transition: 2.0s;
+    visibility: visible;
+    transition-delay: 0.7s;
+}
+
+#content-txt {
+    opacity: 0;
+    transition: 2.0s;
+}
+
+#content-txt.over {
+    opacity: 100;
+    transition: 3.0s;
+}
+
+h1 {
+    display: block;
+    width: 100%;
+    text-align: center;
+    font-family: 'Varela Round';
+    color: #bada55;
+    opacity: 1;
+    transition: all linear 5s;
+}
+
+.invisible {
+    opacity: 0;
+    transition: all linear 0.2s;
+}
