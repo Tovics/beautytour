@@ -27,42 +27,9 @@
 
 </head>
 <body>
-<!--<div class="col-lg-6">
-    <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel" data-interval="2000">
-        <ol class="carousel-indicators">
-            <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
-            <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
-            <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
-            <li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
-        </ol>
-        <div class="carousel-inner">
-            <div class="carousel-item active">
-                <img src="static/img/img1.jpg" class="d-block w-100">
-            </div>
-            <div class="carousel-item">
-                <img src="static/img/img2.jpg" class="d-block w-100">
-            </div>
-            <div class="carousel-item">
-                <img src="static/img/img3.jpg" class="d-block w-100">
-            </div>
-            <div class="carousel-item">
-                <img src="static/img/img4.jpg" class="d-block w-100">
-            </div>
-        </div>
-        <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
-            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-            <span class="sr-only">Previous</span>
-        </a>
-        <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
-            <span class="carousel-control-next-icon" aria-hidden="true"></span>
-            <span class="sr-only">Next</span>
-        </a>
-    </div>
-</div>-->
-
 <div class="container">
     <div class="row">
-        <div id="carousel" class="carousel slide" data-ride="carousel" data-interval="200000000">
+        <div id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000">
             <ol class="carousel-indicators">
                 <li data-target="#carousel" data-slide-to="0" class="active"></li>
                 <li data-target="#carousel" data-slide-to="1"></li>
@@ -70,30 +37,31 @@
             <div class="carousel-inner">
                 <div class="carousel-item active">
                     <div class="slide-box">
-                        <a href="https://google.com">
-                            <img src="static/img/img1.jpg" alt="First slide"></a>
-                        <a href="https://google.com">
-                            <img src="static/img/img2.jpg" alt="First slide"></a>
-                        <a href="https://google.com">
-                            <img src="static/img/img3.jpg" alt="First slide"></a>
-                        <a href="https://google.com">
-                            <img src="static/img/img4.jpg" alt="First slide"></a>
-                        <a href="https://google.com">
-                            <img src="static/img/img5.jpg" alt="First slide"></a>
+                        <a href="http://csepelplaza.hu/">
+                            <img src="/static/images/csepel.png" alt="First slide"></a>
+                        <a href="http://sopronplaza.hu/">
+                            <img src="/static/images/sopron.png" alt="First slide"></a>
+                        <a href="http://szolnokplaza.hu/">
+                            <img src="/static/images/szolnok.png" alt="First slide"></a>
+                        <a href="http://balatonplaza.hu/">
+                            <img src="/static/images/balaton.png" alt="First slide"></a>
+                        <a href="http://debrecenplaza.hu/">
+                            <img src="/static/images/debrecen.png" alt="First slide"></a>
                     </div>
                 </div>
                 <div class="carousel-item">
                     <div class="slide-box">
-                        <a href="https://google.com">
-                            <img src="static/img/img6.jpg" alt="First slide" style="width:1200px;height:200px;"></a>
-                        <a href="https://google.com">
-                            <img src="static/img/img7.jpg" alt="First slide" style="width:1200px;height:200px;"></a>
-                        <a href="https://google.com">
-                            <img src="static/img/img8.jpg" alt="First slide" style="width:1200px;height:200px;"></a>
-                        <a href="https://google.com">
-                            <img src="static/img/img8.jpg" alt="First slide" style="width:1200px;height:200px;"></a>
-                        <a href="https://google.com">
-                            <img src="static/img/img8.jpg" alt="First slide" style="width:1200px;height:200px;"></a>
+                        <a href="http://kaposvarplaza.hu/">
+                            <img src="/static/images/kaposvár.png" alt="First slide" style="width:1200px;height:200px;"></a>
+                        <a href="http://zalaplaza.hu/">
+                            <img src="/static/images/zala.png" alt="First slide" style="width:1200px;height:200px;"></a>
+                        <a href="http://szegedplaza.hu/">
+                            <img src="/static/images/szeged.png" alt="First slide"
+                                 style="width:1200px;height:200px;"></a>
+                        <a href="http://albaplaza.hu/">
+                            <img src="/static/images/alba.png" alt="First slide" style="width:1200px;height:200px;"></a>
+                        <a href="http://nyirplaza.hu/">
+                            <img src="/static/images/nyír.png" alt="First slide" style="width:1200px;height:200px;"></a>
                     </div>
                 </div>
             </div>
