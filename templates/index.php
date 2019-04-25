@@ -20,13 +20,13 @@
 
     <!--SPONSORS STUFF-->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/5.3.0/ekko-lightbox.min.js" defer></script>
-
     <script src="/static/js/sponsors.js" defer></script>
-    <link rel="stylesheet" href="/static/css/sponsors.css" crossorigin="anonymous">
-
-    <!-- CSS -->
-    <link rel="stylesheet" href="/static/css/header.css" crossorigin="anonymous">
     
+
+    <!-- Local CSS -->
+    <link rel="stylesheet" href="/static/css/header.css" crossorigin="anonymous">
+    <link rel="stylesheet" href="/static/css/tour_map.css" crossorigin="anonymous">
+    <link rel="stylesheet" href="/static/css/sponsors.css" crossorigin="anonymous">
 
 </head>
 
@@ -34,6 +34,11 @@
     <div>
         <?php
             include('header.php');
+        ?>
+    </div>
+    <div>
+        <?php
+            include('tour_map.php');
         ?>
     </div>
     <div>

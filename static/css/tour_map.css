@@ -3,7 +3,8 @@
 }
 
 svg {
-    width:100vh;border:1px solid;
+    align-self: center;
+    width:100vh;border:0px solid;
 }
 
 svg *{
@@ -58,4 +59,13 @@ label {
   .tooltip:hover .tooltiptext {
     visibility: visible;
     opacity: 1;
+  }
+
+  .vertical-center {
+    background-color: #fff;
+    min-height: 100%;  
+    min-height: 100vh;
+    justify-content: center;
+    display: flex;
+    align-items: center;
   }
