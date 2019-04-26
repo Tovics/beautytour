@@ -14,7 +14,7 @@
     border-radius: .5rem;
 }
 
-@media (max-width: 575.98px) {
+/*@media (max-width: 575.98px) {
     .slide-box img {
         min-width: 110px;
         min-height: 90px;
@@ -67,9 +67,9 @@
         width: auto;
         height: auto;
     }
-}
+}*/
 
-.slide-box img {
+/*.slide-box img {
     display: block;
     min-width: 220px;
     min-height: 200px;
@@ -77,6 +77,14 @@
     max-height: 200px;
     width: auto;
     height: auto;
+}*/
+
+.slide-box img {
+    -ms-flex: 0 0 20%;
+    flex: 0 0 20%;
+    width:auto;
+    height: auto;
+    max-width: 100%;
 }
 
 img:hover {
