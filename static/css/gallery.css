@@ -5,12 +5,6 @@
     object-fit: cover;
 }
 
-/*div.row > div > div.row {
-    margin-bottom: 15px;
-    padding-left: 30px;
-    padding-right: 30px;
-}*/
-
 .col-xl-2 {
     margin-bottom: 20px;
 }
@@ -30,13 +24,6 @@
     color: black;
 }
 
-.navbar-nav {
-    width: 100%;
-    text-align: center;
-    display: inline-block;
-    height: 50px;
-}
-
 /*fancy shine hover - I can't fix it*/
 
 /*.hover14 figure:hover::before {
@@ -50,12 +37,6 @@
 
 .nav-left {
     float: left;
-}
-
-li {
-    Position: relative;
-    Top: 50%;
-    Transform: translateY(-50%);
 }
 
 html {
@@ -80,9 +61,4 @@ div.top-container img:hover {
     */
     cursor: pointer;
     transform: scale(1.05);
-}
-
-.glamour {
-    color: deeppink;
-    font-size: large;
 }
