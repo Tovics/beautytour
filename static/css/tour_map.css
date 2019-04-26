@@ -68,4 +68,6 @@ label {
     justify-content: center;
     display: flex;
     align-items: center;
+    padding: 0%;
+    size: 30cm;
   }

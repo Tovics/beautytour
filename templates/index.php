@@ -31,21 +31,11 @@
 </head>
 
 <body>
-    <div>
         <?php
             include('header.php');
-        ?>
-    </div>
-    <div>
-        <?php
             include('tour_map.php');
-        ?>
-    </div>
-    <div>
-        <?php
             include('sponsors.php');
         ?>
-    </div>
 </body>
 
 </html>
