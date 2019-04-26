@@ -4,8 +4,12 @@
 
 svg {
     align-self: center;
+    /*
     width:100vh;border:0px solid;
+    */
     padding-top: 30px;
+    width: 80%;
+
 }
 
 svg *{
