@@ -1,4 +1,3 @@
-
 <!--
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css"
           integrity="sha384-/Y6pD6FV/Vv2HJnA6t+vslU6fwYXjCFtcEpHbNJ0lyAFsXTsjBbfaDjzALeQsN6M" crossorigin="anonymous">
@@ -13,7 +12,7 @@
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/js/bootstrap.min.js"
             integrity="sha384-h0AbiXch4ZDo7tp9hKZ4TsHbi047NrKGLO3SEJAg45jXxnGIfYzk4Si90RDIqNm1" crossorigin="anonymous"
             defer></script>
-   --> 
+   -->
 
 <div class="container">
     <div class="row">
@@ -44,8 +43,7 @@
                         <a href="http://zalaplaza.hu/">
                             <img src="/static/images/zala.png" alt="First slide" style="width:1200px;height:200px;"></a>
                         <a href="http://szegedplaza.hu/">
-                            <img src="/static/images/szeged.png" alt="First slide"
-                                 style="width:1200px;height:200px;"></a>
+                            <img src="/static/images/szeged.png" alt="First slide" style="width:1200px;height:200px;"></a>
                         <a href="http://albaplaza.hu/">
                             <img src="/static/images/alba.png" alt="First slide" style="width:1200px;height:200px;"></a>
                         <a href="http://nyirplaza.hu/">
@@ -53,14 +51,15 @@
                     </div>
                 </div>
             </div>
+
+            <a class="carousel-control-prev" href="#carousel" role="button" data-slide="prev">
+                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                <span class="sr-only">Previous</span>
+            </a>
+            <a class="carousel-control-next" href="#carousel" role="button" data-slide="next">
+                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                <span class="sr-only">Next</span>
+            </a>
         </div>
-        <a class="carousel-control-prev" href="#carousel" role="button" data-slide="prev">
-            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-            <span class="sr-only">Previous</span>
-        </a>
-        <a class="carousel-control-next" href="#carousel" role="button" data-slide="next">
-            <span class="carousel-control-next-icon" aria-hidden="true"></span>
-            <span class="sr-only">Next</span>
-        </a>
     </div>
 </div>
