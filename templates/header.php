@@ -11,7 +11,7 @@
          <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle"  data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Galéria</a>
              <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                 <li><a class="dropdown-item" href="#">Budapest</a></li>
+                 <li><a class="dropdown-item" href="gallery.php">Budapest</a></li>
                  <li><a class="dropdown-item" href="#">Sopron</a></li>
                  <li><a class="dropdown-item" href="#">Szolnok</a></li>
                  <li><a class="dropdown-item" href="#">Veszprém</a></li>
