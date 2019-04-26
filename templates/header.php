@@ -13,6 +13,9 @@
                 <a class="nav-link" href="leiras.php">Mindent az eseményről<span class="sr-only">(current)</span></a>
             </li>
             <li class="nav-item active">
+                <a class="nav-link" href="CSR.php">CSR<span class="sr-only">(current)</span></a>
+            </li>
+            <li class="nav-item active">
                 <a class="nav-link" href="jotekony.php">Jótékonykodj!<span class="sr-only">(current)</span></a>
             </li>
             <li class="nav-item dropdown">
