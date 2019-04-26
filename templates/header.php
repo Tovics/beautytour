@@ -8,12 +8,23 @@
          <li class="nav-item active">
             <a class="nav-link" href="index.php">Home<span class="sr-only">(current)</span></a>
          </li>
-         <li class="nav-item">
-            <a class="nav-link" href="gallery.php">Galéria</a>
+         <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle"  data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Galéria</a>
+             <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                 <li><a class="dropdown-item" href="#">Budapest</a></li>
+                 <li><a class="dropdown-item" href="#">Sopron</a></li>
+                 <li><a class="dropdown-item" href="#">Szolnok</a></li>
+                 <li><a class="dropdown-item" href="#">Veszprém</a></li>
+                 <li><a class="dropdown-item" href="#">Debrecen</a></li>
+                 <li><a class="dropdown-item" href="#">Kaposvár</a></li>
+                 <li><a class="dropdown-item" href="#">Zalaegerszeg</a></li>
+                 <li><a class="dropdown-item" href="#">Szeged</a></li>
+                 <li><a class="dropdown-item" href="#">Székesfehérvár</a></li>
+                 <li><a class="dropdown-item" href="#">Nyíregyháza</a></li>
+
+             </ul>
          </li>
-         <li class="nav-item">
-            <a class="nav-link disabled" href="#">Disabled</a>
-         </li>
+
       </ul>
    </div>
 </nav>
