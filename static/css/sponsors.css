@@ -87,7 +87,7 @@
     max-width: 100%;
 }
 
-img:hover {
+a > img:hover {
     /*
     color: white;
     */
