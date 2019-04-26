@@ -1,0 +1,30 @@
+.cim > img {
+     margin: 3%;
+     display: block;
+     margin-left: auto;
+     margin-right: auto;
+     width: 80%;
+ }
+
+.head > img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.sminkphoto > img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 55%;
+}
+
+.jotekony > img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+}
+
+

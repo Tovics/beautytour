@@ -9,7 +9,7 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 
-    
+
     <!-- Bootstrap JS, JQuery -->
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous" defer>
     </script>
@@ -21,12 +21,14 @@
     <!--SPONSORS STUFF-->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/5.3.0/ekko-lightbox.min.js" defer></script>
     <script src="/static/js/sponsors.js" defer></script>
-    
+
 
     <!-- Local CSS -->
     <link rel="stylesheet" href="/static/css/header.css" crossorigin="anonymous">
     <link rel="stylesheet" href="/static/css/tour_map.css" crossorigin="anonymous">
     <link rel="stylesheet" href="/static/css/sponsors.css" crossorigin="anonymous">
+    <link rel="stylesheet" href="/static/css/index.css" crossorigin="anonymous">
+
 
 </head>
 
@@ -36,6 +38,19 @@
             include('tour_map.php');
             include('sponsors.php');
         ?>
+    <div class="cim">
+        <img src="/static/images/cím2.png">
+    </div>
+    <div class="head">
+        <img src="/static/images/head2.png">
+    </div>
+    <div class="sminkphoto">
+        <img src="/static/images/kepek2.png">
+    </div>
+    <div class="jotekony">
+        <img src="/static/images/jotekony2.png">
+    </div>
+
 </body>
 
 </html>
