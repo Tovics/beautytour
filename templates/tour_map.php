@@ -1,4 +1,5 @@
 <div class="container">
+    <img class="logo" src="/static/images/mozgó_logó_gif.gif">
     <div class="jumbotron vertical-center">
         <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 680 429" preserveAspectRatio="xMinYMin meet">
             <image width="680" height="429" href="/static/images/map.png"></image>
