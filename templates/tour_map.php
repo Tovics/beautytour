@@ -26,7 +26,7 @@
                     <polygon id="zalaegerszeg" points="78,178 52,298 130,298 145,270 110,260 125,182"></polygon>
                 </a>
                 <a href="https://goo.gl/maps/iHoqgifNKHRraNET9">
-                    <polygon id="szeged" points="400,267 306,323 306,338 430,350 448,272 "></polygon>
+                    <polygon id="szeged" points="400,267 306,323 306,338 430,350 448,272"></polygon>
                 </a>
                 <a href="https://goo.gl/maps/Qx5xquQ5W3daFETLA">
                     <polygon id="szekesfehervar" points="230,130 233,236 340,235 344,200 280,200 280,135 "></polygon>
