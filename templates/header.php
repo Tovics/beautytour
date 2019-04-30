@@ -7,7 +7,7 @@
         </div>
         <div class="offset-3  col-3">
             <div class="ribbon_container">
-                <div class="ribbon"><a class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Képgaléria</a>
+                <div class="ribbon"><a class="nav-link dropdown-toggle" style="color: deeppink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Képgaléria</a>
                     <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
                         <li><a class="dropdown-item" href="gallery.php">Budapest</a></li>
                         <li><a class="dropdown-item" href="#">Sopron</a></li>
