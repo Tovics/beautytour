@@ -1,0 +1,13 @@
+
+.tales {
+    width: 100%;
+}
+
+.navbar-c {
+    color: #FFFFFF;
+    background-color: #ff1493;
+    align-content: center;
+    height: 80px;
+    z-index: 4;
+    padding: 15px;
+}

@@ -1,5 +1,4 @@
 .cim {
-    padding: 2%;
     text-align: center;
     display: block;
     margin-left: auto;
@@ -19,7 +18,9 @@
     display: block;
     margin: auto;
     padding: 2%;
-
+    height: 100%;
+    width: 100%;
+    horiz-align: center;
 }
 
 .content {
