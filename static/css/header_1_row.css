@@ -11,3 +11,12 @@
     z-index: 4;
     padding: 15px;
 }
+
+.smallLogo {
+    width: 70px;
+    height: 70px;
+    -webkit-filter: drop-shadow(2px 2px 2px white );
+    filter: drop-shadow(2px 2px 2px white);
+    margin: -15px 0px -15px -15px;
+
+}

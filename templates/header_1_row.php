@@ -5,17 +5,12 @@
    <div class="collapse navbar-collapse" id="navbarTogglerDemo01">
       <a class="navbar-brand" href="index.php"></a>
       <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
-         <li class="nav-item active">
-            <a class="nav-link" href="index.php">Home<span class="sr-only">(current)</span></a>
-         </li>
+          <li class="nav-left"><a href="http://localhost:81/templates/index.php"><img class="smallLogo" src="/static/images/GLAMOUR%20BTour%20logo.png"></a></li>
          <li class="nav-item active">
             <a class="nav-link" href="leiras.php">Mindent az eseményről<span class="sr-only">(current)</span></a>
          </li>
          <li class="nav-item active">
             <a class="nav-link" href="CSR.php">CSR<span class="sr-only">(current)</span></a>
-         </li>
-         <li class="nav-item active">
-            <a class="nav-link" href="jotekony.php">Jótékonykodj!<span class="sr-only">(current)</span></a>
          </li>
          <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Galéria</a>
