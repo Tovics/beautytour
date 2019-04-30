@@ -48,7 +48,7 @@
         <img src="/static/images/kepek2.png">
     </div>
     <div class="jotekony">
-        <img src="/static/images/jotekony2.png">
+        <img src="/static/images/j1.png">
     </div>
 
 </body>
