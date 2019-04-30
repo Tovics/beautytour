@@ -8,7 +8,7 @@
     <style class="anchorjs"></style>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css"
           integrity="sha384-/Y6pD6FV/Vv2HJnA6t+vslU6fwYXjCFtcEpHbNJ0lyAFsXTsjBbfaDjzALeQsN6M" crossorigin="anonymous">
-    <link rel="stylesheet" href="/static/css/header.css" crossorigin="anonymous">
+    <link rel="stylesheet" href="/static/css/header_1_row.css" crossorigin="anonymous">
     <link rel="stylesheet" href="/static/css/gallery.css" crossorigin="anonymous">
     <link href="https://cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/5.3.0/ekko-lightbox.css" rel="stylesheet">
 
@@ -31,7 +31,7 @@
 <!-- Ezt minden felhasználásnál meg kell jeleníteni, így ingyenesen használható:
        # Dual licensed under the MIT or GPL Version 2 licenses. -->
 <?php
-    include('header.php');
+    include('header_1_row.php');
 ?>
 <div class="top-container">
     <div data-code="example-2">

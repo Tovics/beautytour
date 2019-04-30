@@ -8,9 +8,6 @@
     <style class="anchorjs"></style>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css"
           integrity="sha384-/Y6pD6FV/Vv2HJnA6t+vslU6fwYXjCFtcEpHbNJ0lyAFsXTsjBbfaDjzALeQsN6M" crossorigin="anonymous">
-    <link rel="stylesheet" href="/static/css/header.css" crossorigin="anonymous">
-    <link rel="stylesheet" href="/static/css/CSR.css" crossorigin="anonymous">
-
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
             integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"
             defer></script>
@@ -21,10 +18,14 @@
             integrity="sha384-h0AbiXch4ZDo7tp9hKZ4TsHbi047NrKGLO3SEJAg45jXxnGIfYzk4Si90RDIqNm1" crossorigin="anonymous"
             defer></script>
 
+    <link rel="stylesheet" href="/static/css/header_1_row.css" crossorigin="anonymous">
+    <link rel="stylesheet" href="/static/css/CSR.css" crossorigin="anonymous">
+
+
 </head>
 <body lang=HU style='tab-interval:36.0pt'>
 <?php
-include('header.php');
+include('header_1_row.php');
 ?>
 <div class=WordSection1>
     <div class="cim">
@@ -34,7 +35,7 @@ mso-fareast-font-family:"Times New Roman";mso-bidi-font-family:"Times New Roman"
             élteti, hanem elsorvasztja őket&quot; - A nők elleni erőszakról beszélgettünk<o:p></o:p></span></p>
     </div>
 
-    <div class="img1 col-6">
+    <div class="img1 offset-8 col-4">
         <img src="/static/images/GL_Beautytour_CSR_cikk2.jpg">
     </div>
     <div class="kep_ala">
@@ -332,8 +333,8 @@ kellene kialakítani, hogy életbe léphessen.<o:p></o:p></span></p>
                 <v:imagedata src="GL_Beautytour_CSR_cikk2_elemei/image005.jpg"
                              o:title="A képen személy, ruházat látható&#10;&#10;A leírás nagyon megbízható"/>
             </v:shape><![endif]--><![if !vml]><span style='mso-ignore:vglayout'>
-<div class="img2 col-3">
-<img width=235 height=334
+<div class="img2 offset-5 col-5 offset-2">
+<img
            src="/static/images/GL_Beautytour_CSR_cikk2.jpg2.jpg"
            alt="A képen személy, ruházat látható&#10;&#10;A leírás nagyon megbízható"
            v:shapes="image2.jpg"></div>
@@ -351,6 +352,8 @@ nőknek és gyerekeknek: 06-80-505-101</span><br>
 hétfő, kedd, csütörtök, péntek este 18 és 22 óra között<o:p></o:p></span></span></h2>
     </div>
 </div>
-
+<?php
+include('jotekony.php');
+?>
 </body>
 </html>

@@ -26,8 +26,8 @@
 <!-- Ezt minden felhasználásnál meg kell jeleníteni, így ingyenesen használható:
        # Dual licensed under the MIT or GPL Version 2 licenses. -->
 <?php
-include('header.php');
-?>
+/*include('header.php');
+*/?>
 <div class=WordSection1>
     <div class="cim">
         <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
