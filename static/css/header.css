@@ -39,7 +39,7 @@
 }
 
 .ribbon > a {
-  color:black;
+  color:deeppink;
 }
 
 .ribbon > a:hover {
@@ -50,5 +50,8 @@
   transform: scale(1.05);
 }
 
+.dropdown-menu > li > a {
+    color: deeppink;
+}
 
 
