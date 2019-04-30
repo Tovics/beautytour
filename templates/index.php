@@ -51,7 +51,9 @@
     <div class="jotekony">
         <img src="/static/images/j1.png">
     </div>
-
+    <?php
+        include('footer.php');
+    ?>
 </body>
 
 </html>
