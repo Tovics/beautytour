@@ -88,4 +88,7 @@ label {
     margin-right: auto;
     align-self: center;
     overflow: visible;
+
+    position: relative;
+    top: -130px;
   }

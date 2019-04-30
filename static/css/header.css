@@ -12,9 +12,34 @@
   color: #FFFFFF;
   background-color: #ff1493;
   align-content: center;
-  max-height: 100px;
+  height: 150px;
   z-index: 4;
+  padding: 15px;
 }
+
+
+.ribbon_container{
+  display: flex;
+}
+
+.ribbon{
+  background-color: white;
+  color: black;
+  display: flex;
+  justify-content: center;
+  height: 43px;
+  align-items: center;
+  padding: 0 5px;
+}
+
+.ribbon_container::before{
+  content:  url(/static/images/ribbon_bg_left.png);;
+}
+.ribbon_container::after{
+  content:  url(/static/images/ribbon_bg_right.png);;
+}
+
+
 
 
 
