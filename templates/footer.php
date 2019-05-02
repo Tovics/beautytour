@@ -7,7 +7,7 @@
                 <div class="col-lg-3 col-md-6 col-sm-6 col-12">
                     <div class="footer-widget footer-style-2">
                         <h4 class="ft-title-brand">
-                             <img class="glamour-logo" src="../img/beautyshop/beauty/logo/glamour_logo.png" alt="Glamour.hu">
+                             <img class="glamour-logo" src="/static/images/glamour_logo.png" alt="Glamour.hu">
                         </h4>
                     </div>
                 </div>

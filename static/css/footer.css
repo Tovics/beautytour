@@ -1,0 +1,28 @@
+
+element.style {
+}
+.copyright.copyright-2 {
+    padding: 20px 0;
+    border-top: 1px solid #eeeeee;
+
+}
+
+.bg_color--40 {
+    background: #303030;
+}
+
+.glamour-logo {
+    border-top-color: initial;
+    border-right-color: initial;
+    border-bottom-color: initial;
+    border-left-color: initial;
+
+}
+
+.footer-widget.footer-style-2 h4.ft-title-brand .glamour-logo {
+    width: 50%;
+    position: relative;
+    margin-left: 54px;
+    margin-top: -15px;
+}
+

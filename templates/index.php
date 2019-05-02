@@ -29,7 +29,7 @@
     <link rel="stylesheet" href="/static/css/tour_map.css" crossorigin="anonymous">
     <link rel="stylesheet" href="/static/css/sponsors.css" crossorigin="anonymous">
     <link rel="stylesheet" href="/static/css/index.css" crossorigin="anonymous">
-
+    <link rel="stylesheet" href="/static/css/footer.css" crossorigin="anonymous">
 
 </head>
 
