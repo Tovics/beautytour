@@ -1,0 +1,22 @@
+
+.tales {
+    width: 100%;
+}
+
+.navbar-c {
+    color: #FFFFFF;
+    background-color: #ff1493;
+    align-content: center;
+    height: 80px;
+    z-index: 4;
+    padding: 15px;
+}
+
+.smallLogo {
+    width: 70px;
+    height: 70px;
+    -webkit-filter: drop-shadow(2px 2px 2px white );
+    filter: drop-shadow(2px 2px 2px white);
+    margin: -15px 0px -15px -15px;
+
+}

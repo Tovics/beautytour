@@ -8,7 +8,7 @@
     <style class="anchorjs"></style>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css"
           integrity="sha384-/Y6pD6FV/Vv2HJnA6t+vslU6fwYXjCFtcEpHbNJ0lyAFsXTsjBbfaDjzALeQsN6M" crossorigin="anonymous">
-    <link rel="stylesheet" href="/static/css/header.css" crossorigin="anonymous">
+    <link rel="stylesheet" href="/static/css/header_1_row.css" crossorigin="anonymous">
     <link rel="stylesheet" href="/static/css/leiras.css" crossorigin="anonymous">
 
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
@@ -24,7 +24,7 @@
 </head>
 <body lang=HU link=blue vlink="#954F72" style='tab-interval:35.4pt'>
 <?php
-include('header.php');
+include('header_1_row.php');
 ?>
 <div class=WordSection1>
     <div class="cim">

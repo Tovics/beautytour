@@ -23,12 +23,13 @@
     <script src="/static/js/sponsors.js" defer></script>
 
 
+
     <!-- Local CSS -->
     <link rel="stylesheet" href="/static/css/header.css" crossorigin="anonymous">
     <link rel="stylesheet" href="/static/css/tour_map.css" crossorigin="anonymous">
     <link rel="stylesheet" href="/static/css/sponsors.css" crossorigin="anonymous">
     <link rel="stylesheet" href="/static/css/index.css" crossorigin="anonymous">
-
+    <link rel="stylesheet" href="/static/css/footer.css" crossorigin="anonymous">
 
 </head>
 
@@ -48,9 +49,11 @@
         <img src="/static/images/kepek2.png">
     </div>
     <div class="jotekony">
-        <img src="/static/images/jotekony2.png">
+        <img src="/static/images/j1.png">
     </div>
-
+    <?php
+        include('footer.php');
+    ?>
 </body>
 
 </html>
