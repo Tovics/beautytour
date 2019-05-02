@@ -54,4 +54,20 @@
     color: deeppink;
 }
 
+/*
+@media (max-width: 991.98px) {
+  .navbar-custom {
+    display: none;
+  }}
+
+@media (min-width: 992px) {
+  .navbar-toggler {
+    display: none;
+  }}
+
+.navbar-toggler {
+  background-color: deeppink;
+}
+*/
+
 
